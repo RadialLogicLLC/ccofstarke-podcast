@@ -1,0 +1,11 @@
+{
+  "name": "ccos-podcast",
+  "private": true,
+  "type": "module",
+  "description": "Builds the Christ's Church of Starke sermon podcast feed",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node test.js"
+  },
+  "engines": { "node": ">=20" }
+}

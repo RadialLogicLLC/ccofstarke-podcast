@@ -1,0 +1,21 @@
+{
+  "_help": "Manual fixes. files: episode -> actual file name. episodes: change a title/speaker. extra: episodes not in the sheet or on the website. skip: leave out.",
+  "files": {
+    "010321am": "010221am.mp3",
+    "042912ampm": "042912am.mp3",
+    "061712ampm": "061712am.mp3",
+    "100911am": "100911ampt1.mp3",
+    "012212pm": "012212pm1.mp3"
+  },
+  "episodes": {
+    "100911am": { "title": "Knowing #6 (Part 1)" },
+    "012212pm": { "title": "Short Sermons (1 of 4)" }
+  },
+  "extra": [
+    { "key": "100911ampt2", "date": "2011-10-09", "slot": "am", "preacher": "Bro Lester", "title": "Knowing #6 (Part 2)", "plusMinutes": 1 },
+    { "key": "012212pm2", "date": "2012-01-22", "slot": "pm", "preacher": "Short Sermons", "title": "Short Sermons (2 of 4)", "plusMinutes": 1 },
+    { "key": "012212pm3", "date": "2012-01-22", "slot": "pm", "preacher": "Short Sermons", "title": "Short Sermons (3 of 4)", "plusMinutes": 2 },
+    { "key": "012212pm4", "date": "2012-01-22", "slot": "pm", "preacher": "Short Sermons", "title": "Short Sermons (4 of 4)", "plusMinutes": 3 }
+  ],
+  "skip": []
+}

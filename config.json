@@ -1,0 +1,27 @@
+{
+  "title": "Christ's Church of Starke",
+  "church": "Christ's Church of Starke",
+  "description": "Sermons from Christ's Church of Starke in Starke, Florida. New messages each week, with an archive going back to 2011.",
+  "link": "https://www.ccofstarke.com/sermons",
+  "language": "en-us",
+  "copyright": "© Christ's Church of Starke",
+  "author": "Christ's Church of Starke",
+  "ownerName": "Christ's Church of Starke",
+  "ownerEmail": "CHANGE-ME@ccofstarke.com",
+  "image": "https://radiallogicllc.github.io/ccofstarke-podcast/cover.jpg",
+  "feedUrl": "https://radiallogicllc.github.io/ccofstarke-podcast/feed.xml",
+  "category": "Religion & Spirituality",
+  "subcategory": "Christianity",
+  "podcastGuid": "ca5b17a4-1381-587b-bd30-7e4f7aa20fed",
+  "guidPrefix": "ccofstarke-",
+  "audioBase": "https://sermons.ccofstarke.com/",
+  "probeBase": "https://s3.wasabisys.com/ccofstarkesermons/sermons/",
+  "sheetCsvUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSS43JSuMzHtZGgMrBGy5QgFNy0CN1fLkmiX7AzI87jDvjRrYqSbM4X3ZxVz3IzqcHxsWEvMRnUjPiy/pub?output=csv",
+  "sermonsPageUrl": "https://www.ccofstarke.com/sermons",
+  "drip": {
+    "enabled": true,
+    "start": "2026-10-18",
+    "initialYears": 2,
+    "yearsPerMonth": 2
+  }
+}
