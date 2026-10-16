@@ -1,0 +1,63 @@
+name: Update podcast feed
+
+on:
+  schedule:
+    - cron: '23 4 * * *'   # every night, ~12:20 AM Eastern
+    - cron: '23 16 * * *'  # every afternoon, ~12:20 PM Eastern
+  push:
+    branches: [main]       # rebuild right away when someone edits a file
+  workflow_dispatch:       # "Run workflow" button
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Test
+        run: node test.js
+
+      - name: Build feed
+        run: node build.js
+
+      - name: Save changes
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A docs data
+          if git diff --cached --quiet; then
+            # GitHub pauses scheduled jobs after 60 days with no commits; keep it awake.
+            last=$(git log -1 --format=%ct)
+            if [ $(( $(date +%s) - last )) -gt 2592000 ]; then
+              date -u +%F > data/keepalive.txt
+              git add data/keepalive.txt
+            fi
+          fi
+          if ! git diff --cached --quiet; then
+            git commit -m "Update feed"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4
