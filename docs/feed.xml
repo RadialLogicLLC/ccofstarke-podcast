@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Christ's Church of Starke</title>
+    <link>https://www.ccofstarke.com/sermons</link>
+    <atom:link href="https://radiallogicllc.github.io/ccofstarke-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Sermons from Christ's Church of Starke in Starke, Florida. New messages each week, with an archive going back to 2011.</description>
+    <itunes:summary>Sermons from Christ's Church of Starke in Starke, Florida. New messages each week, with an archive going back to 2011.</itunes:summary>
+    <language>en-us</language>
+    <copyright>© Christ's Church of Starke</copyright>
+    <lastBuildDate>Sun, 11 Oct 2026 10:30:00 -0400</lastBuildDate>
+    <generator>ccos-podcast</generator>
+    <itunes:author>Christ's Church of Starke</itunes:author>
+    <itunes:owner>
+      <itunes:name>Christ's Church of Starke</itunes:name>
+      <itunes:email>CHANGE-ME@ccofstarke.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://radiallogicllc.github.io/ccofstarke-podcast/cover.jpg"/>
+    <image>
+      <url>https://radiallogicllc.github.io/ccofstarke-podcast/cover.jpg</url>
+      <title>Christ's Church of Starke</title>
+      <link>https://www.ccofstarke.com/sermons</link>
+    </image>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked owner="CHANGE-ME@ccofstarke.com">yes</podcast:locked>
+    <podcast:guid>ca5b17a4-1381-587b-bd30-7e4f7aa20fed</podcast:guid>
+    <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>2Cor.5:21 | Jason Crawford</title>
+      <description>Sunday morning, October 11, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, October 11, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 11 Oct 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/101126am.mp3" length="28512599" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-101126am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2900</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Word of God | Jason Crawford</title>
+      <description>Wednesday evening, October 7, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Wednesday evening, October 7, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Wed, 07 Oct 2026 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/100726pm.mp3" length="25085043" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-100726pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3307</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Be Reconciled to God! | Jason Crawford</title>
+      <description>Sunday morning, October 4, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, October 4, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 04 Oct 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/100426am.mp3" length="20943064" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-100426am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2697</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ambassadors for Christ | Jason Crawford</title>
+      <description>Sunday morning, September 27, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, September 27, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 27 Sep 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/092826am.mp3" length="31966810" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-092826am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3917</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The House of God | Jason Crawford</title>
+      <description>Sunday morning, September 20, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, September 20, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 20 Sep 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/092026am.mp3" length="31207438" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-092026am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3538</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:19 - Committed to us the Word | Jason Crawford</title>
+      <description>Sunday morning, September 13, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, September 13, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 13 Sep 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/091326am.mp3" length="25664843" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-091326am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3019</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>My Heart is Fixed! | Jason Crawford</title>
+      <description>Sunday morning, September 6, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, September 6, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 06 Sep 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/090626am.mp3" length="32756800" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-090626am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3786</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>God's Purpose | Bro Matthew</title>
+      <description>Sunday morning, August 30, 2026. Preached by Bro Matthew at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, August 30, 2026. Preached by Bro Matthew at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 30 Aug 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/083026am.mp3" length="38922714" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-083026am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Matthew</itunes:author>
+      <itunes:duration>3000</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Don't Miss the Rest! | Bro Lester</title>
+      <description>Sunday morning, August 23, 2026. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, August 23, 2026. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 23 Aug 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/082326am.mp3" length="20299669" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-082326am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>2481</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A Man After God's Own Heart | Jason Crawford</title>
+      <description>Sunday morning, August 16, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, August 16, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 16 Aug 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/081626am.mp3" length="21502709" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-081626am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2730</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Extreme Strength | Dana Williams</title>
+      <description>Wednesday evening, August 12, 2026. Preached by Dana Williams at Christ's Church of Starke.</description>
+      <itunes:summary>Wednesday evening, August 12, 2026. Preached by Dana Williams at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Wed, 12 Aug 2026 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/081226pm.mp3" length="23737627" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-081226pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dana Williams</itunes:author>
+      <itunes:duration>3340</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Extreme Weakness | Dana Williams</title>
+      <description>Tuesday evening, August 11, 2026. Preached by Dana Williams at Christ's Church of Starke.</description>
+      <itunes:summary>Tuesday evening, August 11, 2026. Preached by Dana Williams at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Tue, 11 Aug 2026 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/081126pm.mp3" length="20661548" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-081126pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dana Williams</itunes:author>
+      <itunes:duration>3085</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Extremes: Two Sons | Dana Williams</title>
+      <description>Monday evening, August 10, 2026. Preached by Dana Williams at Christ's Church of Starke.</description>
+      <itunes:summary>Monday evening, August 10, 2026. Preached by Dana Williams at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Mon, 10 Aug 2026 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/081026pm.mp3" length="23252357" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-081026pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dana Williams</itunes:author>
+      <itunes:duration>3517</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Extremes: Son to a Servant | Dana Williams</title>
+      <description>Sunday evening, August 9, 2026. Preached by Dana Williams at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday evening, August 9, 2026. Preached by Dana Williams at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/080926pm.mp3" length="14261019" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-080926pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dana Williams</itunes:author>
+      <itunes:duration>2005</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A Preacher | Dana Williams</title>
+      <description>Sunday morning, August 9, 2026. Preached by Dana Williams at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, August 9, 2026. Preached by Dana Williams at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/080926am.mp3" length="15255521" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-080926am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dana Williams</itunes:author>
+      <itunes:duration>2133</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:19 Not Imputing their Trespasses | Jason Crawford</title>
+      <description>Sunday morning, August 2, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, August 2, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 02 Aug 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/080226am.mp3" length="22355603" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-080226am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2891</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:19 Reconciling the World | Jason Crawford</title>
+      <description>Sunday morning, July 26, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, July 26, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 26 Jul 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/072626am.mp3" length="31359155" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-072626am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>4212</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Enduring Change | Jason Crawford</title>
+      <description>Sunday morning, July 12, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, July 12, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 12 Jul 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/071226am.mp3" length="23204632" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-071226am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3242</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Psalm 47 | Bro Lester</title>
+      <description>Sunday morning, July 5, 2026. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, July 5, 2026. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 05 Jul 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/070526am.mp3" length="13853405" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-070526am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>1848</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:19: God was in Christ | Jason Crawford</title>
+      <description>Sunday morning, June 28, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, June 28, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 28 Jun 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/062826am.mp3" length="20068029" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-062826am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2605</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A Father's Compassion | Jason Crawford</title>
+      <description>Sunday morning, June 21, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, June 21, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 21 Jun 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/062126am.mp3" length="20703209" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-062126am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3016</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:18 - Ministering to our Fellows &amp; the Fallen | Jason Crawford</title>
+      <description>Sunday morning, June 14, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, June 14, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 14 Jun 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/061426am.mp3" length="25164658" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-061426am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3799</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Old Paths vs New Methods | Jason Crawford</title>
+      <description>Sunday morning, June 7, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, June 7, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 07 Jun 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/060726am.mp3" length="28344414" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-060726am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>4209</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Life Verses | Allen Gullick</title>
+      <description>Sunday evening, May 31, 2026. Preached by Allen Gullick at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday evening, May 31, 2026. Preached by Allen Gullick at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 31 May 2026 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/053126pm.mp3" length="13855835" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-053126pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Allen Gullick</itunes:author>
+      <itunes:duration>2272</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Test of our Testimony | Allen Gullick</title>
+      <description>Sunday morning, May 31, 2026. Preached by Allen Gullick at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, May 31, 2026. Preached by Allen Gullick at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 31 May 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/053126am.mp3" length="14640197" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-053126am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Allen Gullick</itunes:author>
+      <itunes:duration>2352</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>By Faith: The Journey from Egypt | Jason Crawford</title>
+      <description>Sunday morning, May 24, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, May 24, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 24 May 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/052426am.mp3" length="24837361" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-052426am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3926</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Greatest Transaction Ever | Jason Crawford</title>
+      <description>Sunday morning, May 17, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, May 17, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 17 May 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/051726am.mp3" length="19211586" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-051726am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3129</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:18 - God has given us the Ministry | Jason Crawford</title>
+      <description>Sunday morning, May 10, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, May 10, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 10 May 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/051026am.mp3" length="22431574" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-051026am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3543</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:18 Reconciled! | Jason Crawford</title>
+      <description>Sunday morning, May 3, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, May 3, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 03 May 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/050326am.mp3" length="21671091" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-050326am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3361</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:18 Reconciled: Who God is | Jason Crawford</title>
+      <description>Sunday morning, April 26, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, April 26, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 26 Apr 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/042626am.mp3" length="12998979" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-042626am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2048</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Let's Go! | Jason Crawford</title>
+      <description>Sunday morning, April 19, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, April 19, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 19 Apr 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/041926am.mp3" length="15174183" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-041926am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2279</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christ’s Church of Starke – Sunday morning, April 12, 2026</title>
+      <description>Sunday morning, April 12, 2026. Recorded at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, April 12, 2026. Recorded at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 12 Apr 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/041226am.mp3" length="56068828" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-041226am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:duration>8184</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Because I Live | Jason Crawford</title>
+      <description>Sunday morning, April 5, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, April 5, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 05 Apr 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/040526am.mp3" length="13744631" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-040526am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2192</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Seeking &amp; Finding Jesus | Jason Crawford</title>
+      <description>Sunrise service, April 5, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunrise service, April 5, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 05 Apr 2026 07:00:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/040526sr.mp3" length="19270159" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-040526sr</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2817</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Unprepared for Unprecedented Times | Jason Crawford</title>
+      <description>Sunday morning, March 29, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, March 29, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 29 Mar 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/032926am.mp3" length="24788364" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-032926am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3858</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:18 - All things are of God | Jason Crawford</title>
+      <description>Sunday morning, March 22, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, March 22, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 22 Mar 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/032226am.mp3" length="21272954" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-032226am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3223</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:17 - All things are Become New | Jason Crawford</title>
+      <description>Sunday morning, March 15, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, March 15, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 15 Mar 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/031526am.mp3" length="19900651" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-031526am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3037</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:17 - Old Things | Jason Crawford</title>
+      <description>Sunday morning, March 8, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, March 8, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 08 Mar 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/030826am.mp3" length="25590646" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-030826am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3865</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:17 - New creation | Jason Crawford</title>
+      <description>Sunday morning, March 1, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, March 1, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 01 Mar 2026 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/030126am.mp3" length="19046176" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-030126am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2863</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Trial of our Faith | Jason Crawford</title>
+      <description>Sunday morning, February 22, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, February 22, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 22 Feb 2026 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/022226am.mp3" length="21974581" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-022226am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3354</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Buy The Truth: The Power &amp; Propagation of the Gospel | Dave Summerdorf</title>
+      <description>Wednesday evening, February 18, 2026. Preached by Dave Summerdorf at Christ's Church of Starke.</description>
+      <itunes:summary>Wednesday evening, February 18, 2026. Preached by Dave Summerdorf at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Wed, 18 Feb 2026 18:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/021826pm.mp3" length="25020519" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-021826pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dave Summerdorf</itunes:author>
+      <itunes:duration>3341</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Buy The Truth: The Power of Prayer | Dave Summerdorf</title>
+      <description>Tuesday evening, February 17, 2026. Preached by Dave Summerdorf at Christ's Church of Starke.</description>
+      <itunes:summary>Tuesday evening, February 17, 2026. Preached by Dave Summerdorf at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Tue, 17 Feb 2026 18:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/021726pm.mp3" length="20229859" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-021726pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dave Summerdorf</itunes:author>
+      <itunes:duration>2529</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Buy The Truth: The Power of God’s Word | Dave Summerdorf</title>
+      <description>Monday evening, February 16, 2026. Preached by Dave Summerdorf at Christ's Church of Starke.</description>
+      <itunes:summary>Monday evening, February 16, 2026. Preached by Dave Summerdorf at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Mon, 16 Feb 2026 18:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/021626pm.mp3" length="23013302" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-021626pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dave Summerdorf</itunes:author>
+      <itunes:duration>2876</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Buy The Truth: Sanctification | Dave Summerdorf</title>
+      <description>Sunday evening, February 15, 2026. Preached by Dave Summerdorf at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday evening, February 15, 2026. Preached by Dave Summerdorf at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 15 Feb 2026 18:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/021526pm.mp3" length="22861743" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-021526pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dave Summerdorf</itunes:author>
+      <itunes:duration>2858</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Buy The Truth: Salvation | Dave Summerdorf</title>
+      <description>Sunday morning, February 15, 2026. Preached by Dave Summerdorf at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, February 15, 2026. Preached by Dave Summerdorf at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 15 Feb 2026 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/021526am.mp3" length="17969022" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-021526am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dave Summerdorf</itunes:author>
+      <itunes:duration>2422</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Finding the Will of God | Jason Crawford</title>
+      <description>Sunday morning, February 8, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, February 8, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 08 Feb 2026 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/020826am.mp3" length="27022295" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-020826am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3378</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Grace at Jesus’ Feet | Chance Johnson</title>
+      <description>Sunday morning, February 1, 2026. Preached by Chance Johnson at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, February 1, 2026. Preached by Chance Johnson at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 01 Feb 2026 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/020126am.mp3" length="23837265" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-020126am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Chance Johnson</itunes:author>
+      <itunes:duration>3143</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:17 - In Christ | Jason Crawford</title>
+      <description>Sunday morning, January 25, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, January 25, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 25 Jan 2026 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/012526am.mp3" length="23132765" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-012526am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2891</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:17 - If Any Man | Jason Crawford</title>
+      <description>Sunday morning, January 18, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, January 18, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 18 Jan 2026 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/011826am.mp3" length="21268449" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-011826am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2921</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Power of God | Bro Lester</title>
+      <description>Sunday morning, January 11, 2026. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, January 11, 2026. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 11 Jan 2026 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/011126am.mp3" length="19068525" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-011126am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>2383</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gospel of Your Salvation | Jason Crawford</title>
+      <description>Sunday morning, January 4, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, January 4, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 04 Jan 2026 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/010426am.mp3" length="29799426" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-010426am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3725</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>War on Truth - 2Thess.2 | Jason Crawford</title>
+      <description>Sunday morning, December 28, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, December 28, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 28 Dec 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/122825am.mp3" length="31188092" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-122825am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3898</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Thess 2 | Bro Lester</title>
+      <description>Sunday morning, December 21, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, December 21, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 21 Dec 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/122125am.mp3" length="22039749" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-122125am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>3179</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5:16 - From Now On | Jason Crawford</title>
+      <description>Sunday morning, December 14, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, December 14, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 14 Dec 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/121425am.mp3" length="22067805" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-121425am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2758</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>5 Things God expects from His people | Bro Lester</title>
+      <description>Sunday morning, December 7, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, December 7, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 07 Dec 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/120725am.mp3" length="31995140" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-120725am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>4001</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5 | Bro Lester</title>
+      <description>Sunday morning, November 30, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, November 30, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 30 Nov 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/113025am.mp3" length="19910915" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-113025am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>2878</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Don’t Die in your sins | Ralph Coleman</title>
+      <description>Sunday morning, November 16, 2025. Preached by Ralph Coleman at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, November 16, 2025. Preached by Ralph Coleman at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 16 Nov 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/111625am.mp3" length="22091951" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-111625am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Ralph Coleman</itunes:author>
+      <itunes:duration>3231</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Draw Nigh to God | Gene Burnsed</title>
+      <description>Sunday morning, November 9, 2025. Preached by Gene Burnsed at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, November 9, 2025. Preached by Gene Burnsed at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 09 Nov 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/110925am.mp3" length="15709901" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-110925am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Gene Burnsed</itunes:author>
+      <itunes:duration>2257</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Twofold Acceptance | Bro Lester</title>
+      <description>Sunday morning, November 2, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, November 2, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 02 Nov 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/110225am.mp3" length="27138073" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-110225am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>3856</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Contrast | Jason Crawford</title>
+      <description>Sunday morning, October 26, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, October 26, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 26 Oct 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/102625am.mp3" length="21384179" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-102625am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3171</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Life Seed of Christ | Bro Lester</title>
+      <description>Sunday morning, October 19, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, October 19, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 19 Oct 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/101925am.mp3" length="17122978" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-101925am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>2797</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>CHANGE | Bro Lester</title>
+      <description>Sunday morning, October 5, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, October 5, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 05 Oct 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/100525am.mp3" length="16836020" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-100525am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>2912</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The God of My Life | Bro Lester</title>
+      <description>Sunday morning, September 28, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, September 28, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 28 Sep 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/092825am.mp3" length="12186231" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-092825am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>1942</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Foundations | Jason Crawford</title>
+      <description>Sunday morning, September 21, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, September 21, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 21 Sep 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/092125am.mp3" length="25241459" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-092125am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3905</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Going further | Bill Richburg</title>
+      <description>Sunday morning, September 14, 2025. Preached by Bill Richburg at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, September 14, 2025. Preached by Bill Richburg at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 14 Sep 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/091425am.mp3" length="19788672" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-091425am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bill Richburg</itunes:author>
+      <itunes:duration>3018</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Grow in Grace | Gene Burnsed</title>
+      <description>Sunday morning, September 7, 2025. Preached by Gene Burnsed at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, September 7, 2025. Preached by Gene Burnsed at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 07 Sep 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/090725am.mp3" length="15622133" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-090725am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Gene Burnsed</itunes:author>
+      <itunes:duration>2572</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Authority and Submission | Jason Crawford</title>
+      <description>Sunday morning, August 31, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, August 31, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 31 Aug 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/083125am.mp3" length="26524550" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-083125am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3925</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5 - 2Cor.5:15 | Jason Crawford</title>
+      <description>Sunday morning, August 24, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, August 24, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 24 Aug 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/082425am.mp3" length="22410572" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-082425am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3484</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>What do we do now? Matt.1 | Jason Crawford</title>
+      <description>Sunday morning, August 17, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, August 17, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 17 Aug 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/081725am.mp3" length="19496657" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-081725am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2918</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Inheritance | Dana Williams</title>
+      <description>Wednesday evening, August 13, 2025. Preached by Dana Williams at Christ's Church of Starke.</description>
+      <itunes:summary>Wednesday evening, August 13, 2025. Preached by Dana Williams at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Wed, 13 Aug 2025 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/081325pm.mp3" length="22478401" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-081325pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dana Williams</itunes:author>
+      <itunes:duration>3076</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Body | Dana Williams</title>
+      <description>Tuesday evening, August 12, 2025. Preached by Dana Williams at Christ's Church of Starke.</description>
+      <itunes:summary>Tuesday evening, August 12, 2025. Preached by Dana Williams at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Tue, 12 Aug 2025 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/081225pm.mp3" length="20032670" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-081225pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dana Williams</itunes:author>
+      <itunes:duration>3026</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Desert Place | Dana Williams</title>
+      <description>Monday evening, August 11, 2025. Preached by Dana Williams at Christ's Church of Starke.</description>
+      <itunes:summary>Monday evening, August 11, 2025. Preached by Dana Williams at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Mon, 11 Aug 2025 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/081125pm.mp3" length="20876187" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-081125pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Dana Williams</itunes:author>
+      <itunes:duration>3126</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>When Jesus Passes By | Jason Crawford</title>
+      <description>Sunday morning, August 10, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, August 10, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 10 Aug 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/081025am.mp3" length="20144689" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-081025am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2915</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5 - One Died for All | Jason Crawford</title>
+      <description>Sunday morning, August 3, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, August 3, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 03 Aug 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/080325am.mp3" length="28152867" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-080325am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3519</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5 - How do you Judge? | Jason Crawford</title>
+      <description>Sunday morning, July 27, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, July 27, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 27 Jul 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/072725am.mp3" length="25015100" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-072725am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3728</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5 - The Love of Christ Moves Us | Jason Crawford</title>
+      <description>Sunday morning, July 20, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, July 20, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 20 Jul 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/072025am.mp3" length="18997739" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-072025am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2981</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5 - The Love of Christ Motivates | Jason Crawford</title>
+      <description>Sunday morning, July 13, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, July 13, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 13 Jul 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/071325am.mp3" length="23893214" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-071325am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3459</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Cor.5 - The Love of Christ Masters | Jason Crawford</title>
+      <description>Sunday morning, July 6, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, July 6, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 06 Jul 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/070625am.mp3" length="25611697" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-070625am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3462</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning to Know | Chance Johnson</title>
+      <description>Sunday morning, June 29, 2025. Preached by Chance Johnson at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, June 29, 2025. Preached by Chance Johnson at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 29 Jun 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/062925am.mp3" length="28902827" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-062925am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Chance Johnson</itunes:author>
+      <itunes:duration>3869</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Love of God | Jason Crawford</title>
+      <description>Sunday morning, June 22, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, June 22, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 22 Jun 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/062225am.mp3" length="26087580" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-062225am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3469</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Arrows in Our Hands | Jason Crawford</title>
+      <description>Sunday morning, June 15, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, June 15, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 15 Jun 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/061525am.mp3" length="26311462" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-061525am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3447</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>When Mountains Move | Jason Crawford</title>
+      <description>Sunday morning, June 8, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, June 8, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 08 Jun 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/060825am.mp3" length="22397289" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-060825am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2909</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Others | Allen Gullick</title>
+      <description>Sunday evening, June 1, 2025. Preached by Allen Gullick at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday evening, June 1, 2025. Preached by Allen Gullick at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 01 Jun 2025 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/060125pm.mp3" length="17823660" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-060125pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Allen Gullick</itunes:author>
+      <itunes:duration>2491</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>God's Tenderness in Man's Wilderness | Allen Gullick</title>
+      <description>Sunday morning, June 1, 2025. Preached by Allen Gullick at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, June 1, 2025. Preached by Allen Gullick at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 01 Jun 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/060125am.mp3" length="16209323" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-060125am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Allen Gullick</itunes:author>
+      <itunes:duration>2335</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>He Died a Sinner | Bro Lester</title>
+      <description>Sunday morning, May 25, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, May 25, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 25 May 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/052525am.mp3" length="19174372" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-052525am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>2558</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>What is our Responsibility? | Bro Lester</title>
+      <description>Sunday morning, May 18, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, May 18, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 18 May 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/051825am.mp3" length="24107419" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-051825am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>3261</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A Contrast in Motherhood | Jason Crawford</title>
+      <description>Sunday morning, May 11, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, May 11, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 11 May 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/051125am.mp3" length="20972026" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-051125am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2702</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Romans 5:1 | Jason Crawford</title>
+      <description>Sunday morning, May 4, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, May 4, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 04 May 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/050425am.mp3" length="17123127" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-050425am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2140</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Witness to the Resurrection | Jason Crawford</title>
+      <description>Sunday morning, April 27, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, April 27, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 27 Apr 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/042725am.mp3" length="26562753" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-042725am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3320</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>God IS | Bro Lester</title>
+      <description>Sunday morning, April 20, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, April 20, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 20 Apr 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/042025am.mp3" length="18480067" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-042025am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>2319</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>God is Working! | Jason Crawford</title>
+      <description>Sunrise service, April 20, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunrise service, April 20, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 20 Apr 2025 07:00:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/042025sr.mp3" length="17667077" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-042025sr</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2629</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Last words of a dying man | Ernie Emmons</title>
+      <description>Sunday morning, April 13, 2025. Preached by Ernie Emmons at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, April 13, 2025. Preached by Ernie Emmons at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 13 Apr 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/041325am.mp3" length="25982623" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-041325am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Ernie Emmons</itunes:author>
+      <itunes:duration>3248</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>In His Likeness | Bro Lester</title>
+      <description>Sunday morning, April 6, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, April 6, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 06 Apr 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/040625am.mp3" length="19460738" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-040625am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>2766</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ps.119:1-8 | Jason Crawford</title>
+      <description>Sunday morning, March 30, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, March 30, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 30 Mar 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/033025am.mp3" length="27690390" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-033025am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3461</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Kingdom Message 5 | Ron Thames</title>
+      <description>Wednesday evening, March 26, 2025. Preached by Ron Thames at Christ's Church of Starke.</description>
+      <itunes:summary>Wednesday evening, March 26, 2025. Preached by Ron Thames at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Wed, 26 Mar 2025 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/032625pm.mp3" length="27601725" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-032625pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Ron Thames</itunes:author>
+      <itunes:duration>4285</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Kingdom Message 4 | Ron Thames</title>
+      <description>Tuesday evening, March 25, 2025. Preached by Ron Thames at Christ's Church of Starke.</description>
+      <itunes:summary>Tuesday evening, March 25, 2025. Preached by Ron Thames at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Tue, 25 Mar 2025 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/032525pm.mp3" length="29731067" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-032525pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Ron Thames</itunes:author>
+      <itunes:duration>4567</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Kingdom Message 3 | Ron Thames</title>
+      <description>Monday evening, March 24, 2025. Preached by Ron Thames at Christ's Church of Starke.</description>
+      <itunes:summary>Monday evening, March 24, 2025. Preached by Ron Thames at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Mon, 24 Mar 2025 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/032425pm.mp3" length="27101523" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-032425pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Ron Thames</itunes:author>
+      <itunes:duration>4078</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Kingdom Message 2 | Ron Thames</title>
+      <description>Sunday evening, March 23, 2025. Preached by Ron Thames at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday evening, March 23, 2025. Preached by Ron Thames at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 23 Mar 2025 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/032325pm.mp3" length="31657398" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-032325pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Ron Thames</itunes:author>
+      <itunes:duration>4395</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Kingdom Message 1 | Ron Thames</title>
+      <description>Sunday morning, March 23, 2025. Preached by Ron Thames at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, March 23, 2025. Preached by Ron Thames at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 23 Mar 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/032325am.mp3" length="29487371" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-032325am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Ron Thames</itunes:author>
+      <itunes:duration>4239</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Prelude to the Kingdom | Bro Lester</title>
+      <description>Sunday morning, March 16, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, March 16, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 16 Mar 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/031625am.mp3" length="27565434" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-031625am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>3651</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Coming Judgment Seat | Bro Lester</title>
+      <description>Sunday morning, March 9, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, March 9, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 09 Mar 2025 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/030925am.mp3" length="26018305" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-030925am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>3734</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>John 17 | Bro Lester</title>
+      <description>Sunday morning, March 2, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, March 2, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 02 Mar 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/030225am.mp3" length="24567298" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-030225am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>3762</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ephesians 1 | Chance Johnson</title>
+      <description>Sunday morning, February 23, 2025. Preached by Chance Johnson at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, February 23, 2025. Preached by Chance Johnson at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 23 Feb 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/022325am.mp3" length="22880044" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-022325am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Chance Johnson</itunes:author>
+      <itunes:duration>3361</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2Peter1 | Chance Johnson</title>
+      <description>Sunday morning, February 16, 2025. Preached by Chance Johnson at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, February 16, 2025. Preached by Chance Johnson at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 16 Feb 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/021625am.mp3" length="22239606" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-021625am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Chance Johnson</itunes:author>
+      <itunes:duration>3135</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jesus Can | Jason Crawford</title>
+      <description>Sunday morning, February 9, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, February 9, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 09 Feb 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/020925am.mp3" length="20637284" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-020925am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2677</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Where will you find Jesus | Bro Lester</title>
+      <description>Sunday morning, February 2, 2025. Preached by Bro Lester at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, February 2, 2025. Preached by Bro Lester at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 02 Feb 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/020225am.mp3" length="24234788" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-020225am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Bro Lester</itunes:author>
+      <itunes:duration>3780</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jason Thomas – Sunday morning, January 26, 2025</title>
+      <description>Sunday morning, January 26, 2025. Preached by Jason Thomas at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, January 26, 2025. Preached by Jason Thomas at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 26 Jan 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/012625am.mp3" length="18693739" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-012625am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Thomas</itunes:author>
+      <itunes:duration>2392</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>God Dealing with his own | Tom Hayes</title>
+      <description>Sunday evening, January 19, 2025. Preached by Tom Hayes at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday evening, January 19, 2025. Preached by Tom Hayes at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 19 Jan 2025 18:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/011925pm.mp3" length="14542004" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-011925pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Tom Hayes</itunes:author>
+      <itunes:duration>2073</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jesus as Servant | Tom Hayes</title>
+      <description>Sunday morning, January 19, 2025. Preached by Tom Hayes at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, January 19, 2025. Preached by Tom Hayes at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 19 Jan 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/011925am.mp3" length="18368029" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-011925am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Tom Hayes</itunes:author>
+      <itunes:duration>2296</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Cost of Love | Jason Crawford</title>
+      <description>Sunday morning, January 12, 2025. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, January 12, 2025. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 12 Jan 2025 10:30:00 -0500</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/011225am.mp3" length="25230101" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-011225am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3320</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
