@@ -17,7 +17,7 @@
     <itunes:author>Christ's Church of Starke</itunes:author>
     <itunes:owner>
       <itunes:name>Christ's Church of Starke</itunes:name>
-      <itunes:email>CHANGE-ME@ccofstarke.com</itunes:email>
+      <itunes:email>ccofstarke@ccofstarke.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://radiallogicllc.github.io/ccofstarke-podcast/cover.jpg"/>
     <image>
@@ -30,7 +30,7 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <podcast:locked owner="CHANGE-ME@ccofstarke.com">yes</podcast:locked>
+    <podcast:locked owner="ccofstarke@ccofstarke.com">yes</podcast:locked>
     <podcast:guid>ca5b17a4-1381-587b-bd30-7e4f7aa20fed</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <item>
