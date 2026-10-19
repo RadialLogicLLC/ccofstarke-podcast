@@ -12,7 +12,7 @@
     <itunes:summary>Sermons from Christ's Church of Starke in Starke, Florida. New messages each week, with an archive going back to 2011.</itunes:summary>
     <language>en-us</language>
     <copyright>© Christ's Church of Starke</copyright>
-    <lastBuildDate>Sun, 11 Oct 2026 10:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:30:00 -0400</lastBuildDate>
     <generator>ccos-podcast</generator>
     <itunes:author>Christ's Church of Starke</itunes:author>
     <itunes:owner>
@@ -33,6 +33,32 @@
     <podcast:locked owner="ccofstarke@ccofstarke.com">yes</podcast:locked>
     <podcast:guid>ca5b17a4-1381-587b-bd30-7e4f7aa20fed</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>Content with Christ | Jason Crawford</title>
+      <description>Sunday morning, October 18, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Sunday morning, October 18, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Sun, 18 Oct 2026 10:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/101826am.mp3" length="28295501" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-101826am</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>3218</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Word of God #2 | Jason Crawford</title>
+      <description>Wednesday evening, October 14, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Wednesday evening, October 14, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Wed, 14 Oct 2026 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/101426pm.mp3" length="16717835" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-101426pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>2014</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2Cor.5:21 | Jason Crawford</title>
       <description>Sunday morning, October 11, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
