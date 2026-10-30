@@ -12,7 +12,7 @@
     <itunes:summary>Sermons from Christ's Church of Starke in Starke, Florida. New messages each week, with an archive going back to 2011.</itunes:summary>
     <language>en-us</language>
     <copyright>© Christ's Church of Starke</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 10:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:30:00 -0400</lastBuildDate>
     <generator>ccos-podcast</generator>
     <itunes:author>Christ's Church of Starke</itunes:author>
     <itunes:owner>
@@ -33,6 +33,19 @@
     <podcast:locked owner="ccofstarke@ccofstarke.com">yes</podcast:locked>
     <podcast:guid>ca5b17a4-1381-587b-bd30-7e4f7aa20fed</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>The Power of the Word | Jason Crawford</title>
+      <description>Wednesday evening, October 28, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
+      <itunes:summary>Wednesday evening, October 28, 2026. Preached by Jason Crawford at Christ's Church of Starke.</itunes:summary>
+      <pubDate>Wed, 28 Oct 2026 18:30:00 -0400</pubDate>
+      <enclosure url="https://sermons.ccofstarke.com/102826pm.mp3" length="15854786" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccofstarke-102826pm</guid>
+      <link>https://www.ccofstarke.com/sermons</link>
+      <itunes:author>Jason Crawford</itunes:author>
+      <itunes:duration>1967</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Luke 4:18 | Jason Crawford</title>
       <description>Sunday morning, October 25, 2026. Preached by Jason Crawford at Christ's Church of Starke.</description>
